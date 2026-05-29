@@ -3,6 +3,19 @@
 
 ---
 
+## 👥 Anggota Kelompok
+
+| NIM | Nama |
+|---|---|
+| 123140003 | Muhammad Fadhilah Akbar |
+| 123140030 | Annisa Al-Qoriah |
+| 123140031 | Muhammad Romadhon Santoso |
+| 123140033 | Sigit Kurnia Hartawan |
+| 123140038 | Stevanus Cahya Anggara |
+| 123140063 | Pradana Figo Ariasya |
+
+---
+
 ## 📌 Deskripsi Project
 
 Project ini bertujuan untuk membangun model klasifikasi prediksi **stroke** menggunakan dataset kesehatan, dengan fokus pada penanganan **imbalanced class** (ketidakseimbangan kelas) yang umum terjadi pada dataset medis.
